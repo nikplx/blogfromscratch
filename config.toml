@@ -1,0 +1,4 @@
+baseURL = 'http://blogfromscratch.org/'
+languageCode = 'en-us'
+title = 'Blog from Scratch'
+theme = 'PaperMod'
